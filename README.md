@@ -2,6 +2,8 @@
 
 Bienvenue dans le Jeu de Société en Ligne | Jeu du X/O, un jeu de société en ligne où vous pouvez jouer avec des avatars personnalisés et affronter l'IA ou d'autres joueurs en multijoueur.
 
+[Commencer à jouer 🕹️](https://rigelft.github.io/felgame1/JEU_DU_X.O/) 
+
 ## Fonctionnalités
 
 - **Avatars Personnalisés** : Choisissez parmi une variété d'avatars pour représenter votre personnage.
